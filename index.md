@@ -1,8 +1,10 @@
-## Estou aq pra te dizer ola
+## Portifólio
+## Fatos sobre mim
+ <p> <img src="./Wallpapers/632051.png"></p>
+Sou estudante de Ciência da Computação PUCPR(Pontifícia Universidade Católica do Paraná), completei alguns cursos online e busco completar outros
+ Meu objetivo e absorver o máximo de conhecimento e domínio possível na área além de ampliar meu conhecimento em mais de uma língua, em busca de percepções e técnicas que melhorem minha eficiência em todos os aspectos.
 
-You can use the [editor on GitHub](https://github.com/Jorelzin/Joel-Sepulveda-Matins/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
