@@ -23,7 +23,7 @@ Jorelzin Jaz aq
 
 **Bold** and _Italic_ and `Code` text
 
-[https://static.wikia.nocookie.net/rpg-the-king-of-cartoons/images/a/ad/Vasto_Lorde.gif/revision/latest?cb=20180309213939&path-prefix=pt-br](url) and ![Image](src)
+<p> <img src="./Wallpapers/632051.png"><p>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
