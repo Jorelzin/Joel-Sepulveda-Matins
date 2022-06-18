@@ -1,4 +1,4 @@
-## Estou aq pra te dizer
+## Estou aq pra te dizer ola
 
 You can use the [editor on GitHub](https://github.com/Jorelzin/Joel-Sepulveda-Matins/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Jorelzin Jaz aq
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://static.wikia.nocookie.net/rpg-the-king-of-cartoons/images/a/ad/Vasto_Lorde.gif/revision/latest?cb=20180309213939&path-prefix=pt-br](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
