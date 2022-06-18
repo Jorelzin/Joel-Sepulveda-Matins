@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Jorelzin Jaz aq
+<p> <img src="./Wallpapers/632051.png"></p>
+
 
 # Header 1
 ## Header 2
@@ -29,6 +31,7 @@ Jorelzin Jaz aq
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
+<p> <img src="./Wallpapers/632051.png"></p>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jorelzin/Joel-Sepulveda-Matins/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
