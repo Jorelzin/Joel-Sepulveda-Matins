@@ -25,7 +25,7 @@ Em suma o trabalho em destaque desenvolvido, foi a criação de deduções logic
 <p> <img src="./imagens/Detetive.png"></p>
 ### Fundamentos de Sistemas Ciberfísicos
 **O *Projeto Smart City* Implica na criação de uma solução dentro de uma problemática em Smart City, através do Raspberry Pi e seus sensores e atuadores.
-<p> <img src="./raspb.png"></p>
+<p> <img src="./imagens/raspb.png"></p>
 ###Filosofia
 Nesta disciplina foi contemplada a visão de mundo de diversos filósofos tais como Emanuel Kant, em especifico sobre ele foi estudado o seu texto 'O que é esclarecimento', teve também filósofos como Michel Montaigne ('De como filosofar é aprender a morrer'), Jean Paul Sartre ("O Existencialismo no Humanismo") entre outros.
 Vale destacar o estudo Sobre o "Projeto Educativo De Francisco" e a Construção do Projeto Vida Universitária.
