@@ -14,6 +14,7 @@ Este foi um jogo desenvolvido no Construct 3, que tinha como história um deteti
 ##*Mundinho Do Harry Potter BR 
 <p> <img src="./imagens/MundinhoDoHarry.jpeg"></p>
 Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazia um compilado de informações referente ao mundo de Harry Potter, contendo interfaces de áudio, vídeo, imagens etc.
+##* Aplicativo Web
 
 ### Raciocínio Algorítmico
 **Jokenpô: Um projeto onde deveria criar um código que simule um Pedra, Papel e tesoura, com dois modos principais, Player X Maquina e Player X Player
@@ -31,10 +32,10 @@ Nesta disciplina foi contemplada a visão de mundo de diversos filósofos tais c
 Vale destacar o estudo Sobre o "Projeto Educativo De Francisco" e a Construção do Projeto Vida Universitária.
 <p> <img src="./imagens/PVU.png"></p>
 
-###Alguns conhecimentos
+### Alguns conhecimentos
 *Estudos em HTML, c++, c, Python
 *InglêS
-###Outros
+### Outros
 *Toco e treino Violão, Violino e guitarra
 *Planejo aprender futuramente Piano
 
