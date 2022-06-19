@@ -29,7 +29,8 @@ Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazi
  o site deverá ser um TEMA em específico que a equipe 
  escolher.
   <p> <img src="./imagens/web.png"></p
-#### Raciocínio Algorítmico
+
+ #### Raciocínio Algorítmico
 **Jokenpô: Um projeto onde deveria criar um código que simule um Pedra, Papel e tesoura, com dois modos principais, Player X Maquina e Player X Player
 <p> <img src="./imagens/Jokenpo.png"></p>
 **Jogo Da Memória: Se resume em criar um código que simule um jogo de memoria, onde se o indivíduo que esta dando os inputs acertar a posição de dois elementos iguais, ira ganhar um ponto, ate finalizar o jogo.
