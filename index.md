@@ -14,6 +14,7 @@ Este foi um jogo desenvolvido no Construct 3, que tinha como história um deteti
  #### Mundinho Do Harry Potter BR 
 <p> <img src="./imagens/MundinhoDoHarry.jpeg"></p>
 Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazia um compilado de informações referente ao mundo de Harry Potter, contendo interfaces de áudio, vídeo, imagens etc.
+ 
  #### Aplicativo Web
 
 #### Raciocínio Algorítmico
