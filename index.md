@@ -22,12 +22,15 @@ Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazi
 <p> <img src="./imagens/Jokenpo.png"></p>
 **Jogo Da Memória: Se resume em criar um código que simule um jogo de memoria, onde se o indivíduo que esta dando os inputs acertar a posição de dois elementos iguais, ira ganhar um ponto, ate finalizar o jogo.
 <p> <img src="./imagens/JogoDaMemoria.png"></p>
+
 ### Resolução de Problemas com Lógica Matemática
 Em suma o trabalho em destaque desenvolvido, foi a criação de deduções logicas em paralelo com uma história condizente, e também sua implementação em uma linguagem de programação, eu no caso usei Python, essa espécie de jogo, através da manipulação da Matemática Discreta, faria com que o  individuo que estivesse jogando, pudesse inferir uma conclusão em decorrer das premissas dadas, desenvolvi esse jogo com múltiplas escolhas e diálogos.
 <p> <img src="./imagens/Detetive.png"></p>
+
 ### Fundamentos de Sistemas Ciberfísicos
 **O *Projeto Smart City* Implica na criação de uma solução dentro de uma problemática em Smart City, através do Raspberry Pi e seus sensores e atuadores.
 <p> <img src="./imagens/raspb.png"></p>
+
 ### FILOSOFIA
 Nesta disciplina foi contemplada a visão de mundo de diversos filósofos tais como Emanuel Kant, em especifico sobre ele foi estudado o seu texto 'O que é esclarecimento', teve também filósofos como Michel Montaigne ('De como filosofar é aprender a morrer'), Jean Paul Sartre ("O Existencialismo no Humanismo") entre outros.
 Vale destacar o estudo Sobre o "Projeto Educativo De Francisco" e a Construção do Projeto Vida Universitária.
@@ -36,6 +39,7 @@ Vale destacar o estudo Sobre o "Projeto Educativo De Francisco" e a Construção
 ### Alguns conhecimentos
 *Estudos em HTML, c++, c, Python
 *InglêS
+
 ### Outros
 *Toco e treino Violão, Violino e guitarra
 *Planejo aprender futuramente Piano
