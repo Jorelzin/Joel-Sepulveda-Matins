@@ -7,14 +7,14 @@ Sou estudante de Ciência da Computação PUCPR(Pontifícia Universidade Católi
 
 
 ### Pojetos Em Experiência Criativa: Navegando na Computação:
-##*Second Nature
+ #### Second Nature
 <p> <img src="./imagens/SecondNature.jpeg"></p>
 Este foi um jogo desenvolvido no Construct 3, que tinha como história um detetive desvendando mistérios sobre determinados casos
 
-#### Mundinho Do Harry Potter BR 
+ #### Mundinho Do Harry Potter BR 
 <p> <img src="./imagens/MundinhoDoHarry.jpeg"></p>
 Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazia um compilado de informações referente ao mundo de Harry Potter, contendo interfaces de áudio, vídeo, imagens etc.
-#### Aplicativo Web
+ #### Aplicativo Web
 
 #### Raciocínio Algorítmico
 **Jokenpô: Um projeto onde deveria criar um código que simule um Pedra, Papel e tesoura, com dois modos principais, Player X Maquina e Player X Player
