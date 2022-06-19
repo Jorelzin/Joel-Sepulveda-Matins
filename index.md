@@ -16,7 +16,19 @@ Este foi um jogo desenvolvido no Construct 3, que tinha como história um deteti
 Foi um projeto desenvolvido no Processing, através da linguagem Java, que trazia um compilado de informações referente ao mundo de Harry Potter, contendo interfaces de áudio, vídeo, imagens etc.
  
  #### Aplicativo Web
-
+  Desenvolver um site que contenha uma página inicial com MENU que irá redirecionar
+ paraoutras4páginas:
+ 1. Página com imagens
+ 2. Página com vídeos (youtube)
+ 3. Página com componentes de input (mínimo 5 campos)
+ •Ao clicar em um botão, deverá gravar as informações em uma tabela do banco de 
+ dados.
+ 4. Página de listagem de dados.
+ •Ao clicar em um botão, deverá mostrar na página as informações de uma tabela do 
+ banco de dados.
+ o site deverá ser um TEMA em específico que a equipe 
+ escolher.
+  <p> <img src="./imagens/web.png"></p
 #### Raciocínio Algorítmico
 **Jokenpô: Um projeto onde deveria criar um código que simule um Pedra, Papel e tesoura, com dois modos principais, Player X Maquina e Player X Player
 <p> <img src="./imagens/Jokenpo.png"></p>
