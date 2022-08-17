@@ -1,4 +1,4 @@
-##Joel Sepulveda Martins## Tem que alterar as entradas 81
+##Joel Sepulveda Martins## Tem que alterar as entradas  line 81
 ##nao deixar espaço no final das linhas do arquivo txt, para nao dar erro
 ##OS ARQUIVOS DE ENTRADA .TXT CRIADOS PELO PROFESSOR DEVEM SEGUIR A MESMA ESTRUTURA DE ESCRITA QUE OS QUE PASSADOS PELO MESMO NO TRABALHO PARA QUE FUNCIONE, ESPAÇOS VIRGULAS E ETC, IGUAL
 ###Enunciado
