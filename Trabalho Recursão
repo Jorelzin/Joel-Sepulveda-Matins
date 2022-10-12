@@ -1,0 +1,30 @@
+#include <stdio.h>
+void torre(int n, char ori, char dest, char aux){
+    if (n == 1){
+        printf("\n");
+        printf("Mover de %c para %c",ori, dest);
+        printf("\n");
+    }
+    else{
+        
+        torre(n-1, ori, aux,  dest);
+        printf("\n");
+        printf("Move de %c para %c", ori, dest);
+        printf("\n");
+        torre(n-1, aux, dest,  ori);
+    }
+    
+}
+int main() {
+int n;
+printf("Para resolver a Torre De Hanoi com 7 discos: ");
+n = 7;
+torre(n, 'A', 'B', 'C');
+printf("\n");
+printf("Digite quantos discos voce quer:");
+printf("\n");
+scanf("%d", &n);
+torre(n, 'A', 'B', 'C');
+
+    return 0;
+}
